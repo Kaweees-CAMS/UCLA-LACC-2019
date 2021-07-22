@@ -13,7 +13,7 @@ Slides and handouts for UCLA LACC 2018
 
 Your Name - [@kaweees](https://twitter.com/kaweees1) - miguelvillafloran@gmail.com
 
-Project Link: [https://github.com/Kaweees/BWSI-Python](https://github.com/Kaweees/UCLA-LACC-2018)
+Project Link: [https://github.com/Kaweees/UCLA-LACC-2018](https://github.com/Kaweees/UCLA-LACC-2018)
 
 ## Support Us!
 Give this repo a ⭐️ if you found this project helpful!
