@@ -8,6 +8,17 @@
 
 Slides and handouts for [UCLA LACC 2019](https://sites.google.com/site/computingcircle/2019-summer)
 
+```
+.
+├── 01 - Introduction Computer Science & Python
+├── 02 - Algorithms
+├── 03 - Website APIs & Databases
+├── 04 - Mobile Development
+├── 05 - Machine Learning & Artificial Intelligence
+├── 06 - Social Networks
+├── 07 - Internet of Things & Embedded System
+├── 08 - Control Systems
+```
 <!-- CONTACT -->
 ## Contact
 
