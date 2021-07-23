@@ -17,7 +17,7 @@ Slides and handouts for [UCLA LACC 2019](https://sites.google.com/site/computing
 ├── 05 - Machine Learning & Artificial Intelligence
 ├── 06 - Social Networks
 ├── 07 - Internet of Things & Embedded System
-├── 08 - Control Systems
+└── 08 - Control Systems
 ```
 <!-- CONTACT -->
 ## Contact
