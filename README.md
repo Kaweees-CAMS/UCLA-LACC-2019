@@ -11,7 +11,7 @@ Slides and handouts for [UCLA LACC 2019](https://sites.google.com/site/computing
 <!-- USAGE -->
 ## Usage
 
-<p style="margin-right: 150px;">This repository serves as a place for me to store the slides and handouts of LACC and for later reference in future progress and the benefit of others. This is not of my creation. Each presentation in each module has the person who gave the presentation, who I assume is the creator of each presentation. The LACC summer program is a program maintained and organized by <a href="https://github.com/sandeep-iitr">Sandeep Singh Sandha</a>.</p>
+<p style="margin-right: 155px;">This repository serves as a place for me to store the slides and handouts of LACC and for later reference in future progress and the benefit of others. This is not of my creation. Each presentation in each module has the person who gave the presentation, who I assume is the creator of each presentation. The LACC summer program is a program maintained and organized by <a href="https://github.com/sandeep-iitr" target="_blank">Sandeep Singh Sandha</a>.</p>
 
 <!-- MODULES -->
 ## Modules
