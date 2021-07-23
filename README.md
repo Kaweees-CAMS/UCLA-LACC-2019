@@ -17,6 +17,8 @@ This repository serves as a place for me to store the slides and handouts of LAC
 ## Modules
 
 Stored in chronological order of presentation.
+
+```
 .
 ├── 01 - Introduction Computer Science & Python
 ├── 02 - Algorithms
