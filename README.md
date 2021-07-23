@@ -8,7 +8,15 @@
 
 Slides and handouts for [UCLA LACC 2019](https://sites.google.com/site/computingcircle/2019-summer)
 
-```
+<!-- USAGE -->
+## Usage
+
+This repository serves as a place for me to store the slides and handouts of LACC and for later reference in future progress and the benefit of others. This is not of my creation. Each presentation in each module has the person who gave the presentation, who I assume is the creator of each presentation. The LACC summer program is a program maintained and organized by [Sandeep Singh Sandha](https://github.com/sandeep-iitr).
+
+<!-- MODULES -->
+## Modules
+
+Stored in chronological order of presentation.
 .
 ├── 01 - Introduction Computer Science & Python
 ├── 02 - Algorithms
