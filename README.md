@@ -11,7 +11,9 @@ Slides and handouts for [UCLA LACC 2019](https://sites.google.com/site/computing
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@kaweees](https://twitter.com/kaweees1) - miguelvillafloran@gmail.com
+Sandeep Singh Sandha - [@sandeep-iitr](https://github.com/sandeep-iitr) - sandha@cs.ucla.edu
+
+Miguel Villa Floran - [@kaweees](https://twitter.com/kaweees1) - miguelvillafloran@gmail.com
 
 Project Link: [https://github.com/Kaweees/UCLA-LACC-2019](https://github.com/Kaweees/UCLA-LACC-2019)
 
