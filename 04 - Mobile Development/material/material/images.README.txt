@@ -1,0 +1,7 @@
+axxx_xxxxx.png -> original size
+bxxx.png       -> original size
+cxxx.png       -> 64x64 pixels
+dxxx.png       -> 48x48 pixels
+exxx.png       -> 32x32 pixels
+fxxx.png       -> 24x24 pixels
+gxxx.png       -> 16x16 pixels
